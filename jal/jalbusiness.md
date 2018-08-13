@@ -4,4 +4,12 @@ Japan Airlines Boeing 787-9 Business Class 体验
 
 机器打出来的纸太脆弱，又管小姐姐要了硬质的登机牌，发现登机顺序一项多了priority boarding，不太清楚是座位缘故还是One World的会员的缘故。登机之后发现发现果然是Business Class，布局上每排采用1-2-1布局，JAL的787-9的经济舱是3-4-3布局，777-3是3-3-3布局，也就是宽度上大概达到了原来的两倍，但实际上并没有，因为多出了桌子和立式柜子的空间。
 
+基本布局：
 ![](https://github.com/dingzew/whatever/blob/master/jal/screenshots/WechatIMG138.jpeg)
+
+
+座椅方面，除了基本的前后可调节之外，还多了按摩功能，按摩的部位可以上下左右调，但摁一次按摩大概只能动个2分钟左右便自动停下了，后仰的角度不限，甚至可以放到负角度，由于是独立的空间，并不会对后面的旅客产生影响，基本可以说明这个座位所占的前后空间至少可以达到经济舱的两倍，至少4倍的占地空间意味着至少4倍的商务舱定价从某种程度上还是合理的，此外，因为前后空间大，自己独享一个头顶行李架，然而我并不是旅行团大妈大爷，并用不上这么大储物空间。
+
+书籍存放袋和座椅遥控器：
+![](https://github.com/dingzew/whatever/blob/master/jal/screenshots/WechatIMG139.jpeg)
+
